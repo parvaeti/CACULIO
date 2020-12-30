@@ -1,0 +1,8 @@
+.mybackground
+{
+    background-image:url(images.png) ;
+}
+.title{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color: rgb(0, 0, 0);
+}
